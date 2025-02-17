@@ -1,16 +1,29 @@
-<!--## Hi there 👋
+👋 Hi, I’m Ragavan
+
+🚀 About Me
+
+🔥 Passionate about web development & coding
+
+🌱 Currently learning Front-End development to become a full-stack developer
+
+🛠️ Skilled in HTML, CSS, JavaScript, Python, and Bootstrap
+
+💡 Always exploring new technologies & improving my skills
 
 
-**ragavanpanaveli/ragavanpanaveli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack
 
-Here are some ideas to get you started:
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tools & Platforms: VS Code, GitHub ,Sublime text editor 
+
+
+📈 GitHub Stats
+
+
+
+✨ Fun Fact
+
+"Debugging life & code one step at a time!
