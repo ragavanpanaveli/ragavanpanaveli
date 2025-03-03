@@ -6,7 +6,7 @@
 
 🌱 Currently learning Front-End development to become a full-stack developer
 
-🛠️ Skilled in HTML, CSS, JavaScript, Python, and Bootstrap
+🛠️ Skilled in HTML, CSS, JavaScript, Python, MySQL and Bootstrap
 
 💡 Always exploring new technologies & improving my skills
 
@@ -17,11 +17,7 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend (Learning)
 
 
-Tools & Platforms: VS Code, GitHub ,Sublime text editor 
-
-
-📈 GitHub Stats
-
+Tools & Platforms: VS Code, GitHub ,Sublime text editor, XAMPP
 
 
 ✨ Fun Fact
